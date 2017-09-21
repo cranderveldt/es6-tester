@@ -22,6 +22,8 @@ gem 'coffee-rails', '~> 4.2'
 # gem 'therubyracer', platforms: :ruby
 gem 'sprockets',            '~> 4.x'
 gem 'babel-transpiler'
+# gem 'babel-schmooze-sprockets'
+# gem 'sprockets-es6'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
